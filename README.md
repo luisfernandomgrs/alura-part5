@@ -1,1 +1,7 @@
-Frontend, Backend... Aplicação completa para gerar stickers usando mongoDb, Spring Boot, e aprendo muuuiittooo. Valeu #Alura pela semana incrível.
+# Semana de imersão Java da Alura
+
+
+Frontend, Backend...
+Aplicação completa para gerar stickers usando mongoDb, Spring Boot, e aprendendo muuuiittooo.
+
+### Valeu #Alura pela semana incrível.
